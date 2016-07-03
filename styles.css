@@ -1,0 +1,16 @@
+
+.ifx-cell {
+    background: #d22dd2;
+    margin: 0;
+    border-style: none;
+}
+
+.ifx-card {
+  -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+              -ms-grid-row-align: flex-start;
+          align-items: flex-start;
+  -webkit-align-content: flex-start;
+      -ms-flex-line-pack: start;
+          align-content: flex-start;
+}

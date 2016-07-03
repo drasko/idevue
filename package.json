@@ -1,0 +1,12 @@
+{
+  "name": "ideflux",
+  "version": "1.0.0",
+  "description": "Web IDE for Mainflux",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drasko DRASKOVIC <drasko.draskovic@gmail.com>",
+  "license": "ISC",
+  "dependencies": {}
+}
